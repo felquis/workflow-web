@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "A simple development workflow to easily start writing HTML, CSS and JavaScript",
   "author": "Felquis Gimenes <oi@felquis.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.8.0"
+  }
 }

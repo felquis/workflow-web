@@ -1,4 +1,3 @@
 node_modules/
 src/bower_components/
 npm-debug.log
-src/assets/*/*.out.js

@@ -1,1 +1,3 @@
-console.log('Hellow World');
+import log from './modules/log.js'
+
+log('Hello World')

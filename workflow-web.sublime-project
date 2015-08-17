@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+    {
+      "path": ".",
+      "name": "workflow",
+      "folder_exclude_patterns": ["*"],
+      "file_include_patterns": ["*"]
+    },
+    {
+      "path": "src",
+      "folder_exclude_patterns": ["*"]
+    },
+    {
+      "path": "src/assets/css"
+    },
+    {
+      "path": "src/assets/js",
+      "file_exclude_patterns": ["*.out.js", "*.out.map"]
+    },
+    {
+      "path": "src/assets"
+    },
+    {
+      "path": "src/bower_components/"
+    }
+	]
+}

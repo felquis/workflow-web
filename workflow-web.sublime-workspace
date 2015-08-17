@@ -1,0 +1,1643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"redux",
+				"redux-field-link	redux-field-link"
+			],
+			[
+				"$ionic",
+				"$ionicHistory"
+			],
+			[
+				"$user",
+				"$userMethods"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"feed",
+				"feedsData"
+			],
+			[
+				"current",
+				"currentFeed"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"updat",
+				"updatedFeed"
+			],
+			[
+				"logout",
+				"logoutSuccess"
+			],
+			[
+				"login",
+				"loginSuccess"
+			],
+			[
+				"m",
+				"mete	measureText(txt,x,y)"
+			],
+			[
+				"module",
+				"verbose_module	AngularJS"
+			],
+			[
+				"javascr",
+				"javascript"
+			],
+			[
+				"nam",
+				"namespace	@namespace"
+			],
+			[
+				"browse",
+				"browserSync"
+			],
+			[
+				"$profile",
+				"$profileUpdated"
+			],
+			[
+				"load",
+				"loadProfile"
+			],
+			[
+				"make",
+				"makeSendFeedback"
+			],
+			[
+				"show",
+				"showOwnerOptions"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"compa",
+				"compareUser"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"profile",
+				"profileId"
+			],
+			[
+				"hei",
+				"heightMeters"
+			],
+			[
+				"cent",
+				"centery"
+			],
+			[
+				"cen",
+				"centery"
+			],
+			[
+				"center",
+				"centery"
+			],
+			[
+				"dot",
+				"dotSize"
+			],
+			[
+				"lm",
+				"limitX"
+			],
+			[
+				"star",
+				"startX"
+			],
+			[
+				"vert",
+				"vertex"
+			],
+			[
+				"cet",
+				"centery"
+			],
+			[
+				"line",
+				"lineSegment"
+			],
+			[
+				"cente",
+				"centery"
+			],
+			[
+				"ce",
+				"clre	clearRect()"
+			],
+			[
+				"fee",
+				"feedIndex"
+			],
+			[
+				"inje",
+				"inject"
+			],
+			[
+				"comment",
+				"commentsLoad"
+			],
+			[
+				"comme",
+				"commentsStatus"
+			],
+			[
+				"handle",
+				"handlerSuccess"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"ha",
+				"handlerSuccess"
+			],
+			[
+				"handler",
+				"handlerError"
+			],
+			[
+				"time",
+				"TimelineController"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"angu",
+				"angular_templates"
+			],
+			[
+				"rese",
+				"resetModal"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"item",
+				"itemTemporario"
+			],
+			[
+				"watch",
+				"watch-dev"
+			],
+			[
+				"prepare",
+				"prepare-templates"
+			],
+			[
+				"conca",
+				"concat-dist"
+			],
+			[
+				"bui",
+				"build-dev-phase-1-1"
+			],
+			[
+				"build",
+				"build-dev-phase-2"
+			],
+			[
+				"ionic",
+				"ionicGarden"
+			],
+			[
+				"js",
+				"jsFiles"
+			],
+			[
+				"build-",
+				"build-phase-1"
+			],
+			[
+				"build-pre",
+				"build-prepare-js"
+			],
+			[
+				"dest",
+				"destBase"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"spin",
+				"spinnerHide"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"get",
+				"getList"
+			],
+			[
+				"state",
+				"stateProvider"
+			],
+			[
+				"sx-hi",
+				"sx-hide-visuallyhidden	Hide only visually, but have it available for screen readers"
+			],
+			[
+				"sx-hide",
+				"sx-hide-visuallyhidden-focusable	Hide and still focusable"
+			],
+			[
+				"sx-cnd-jq",
+				"sx-cdn-jquery-1-11-2	jQuery 1.11.2"
+			],
+			[
+				"servic",
+				"serviceMethods"
+			],
+			[
+				"serv",
+				"serviceMethods"
+			],
+			[
+				"watc",
+				"watch-ionic"
+			],
+			[
+				"wa",
+				"watch"
+			],
+			[
+				"wat",
+				"watch-ionic"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"toLoa",
+				"toLoadSrc"
+			],
+			[
+				"modul",
+				"modulePath"
+			],
+			[
+				"modu",
+				"modulePath"
+			],
+			[
+				"instal",
+				"installModule"
+			],
+			[
+				"fil",
+				"fileFiles"
+			],
+			[
+				"cookie",
+				"cookiesMethods"
+			],
+			[
+				"dat",
+				"dataMe"
+			],
+			[
+				"brose",
+				"browserInit"
+			],
+			[
+				"argumen",
+				"arguments"
+			],
+			[
+				"facebookApp",
+				"facebookAppName"
+			],
+			[
+				"cordova",
+				"cordovaPrepareBrowser"
+			],
+			[
+				"comp",
+				"compare2"
+			],
+			[
+				"ge",
+				"generation"
+			],
+			[
+				"compare",
+				"compare1"
+			],
+			[
+				"curr",
+				"currentHeight"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"new",
+				"newArray"
+			],
+			[
+				"las",
+				"lastValue"
+			],
+			[
+				"render",
+				"renderNextTick"
+			],
+			[
+				"rend",
+				"renderNextTick"
+			],
+			[
+				"ite",
+				"itemIndex"
+			],
+			[
+				"y",
+				"yValue"
+			],
+			[
+				"gener",
+				"generateMatrix"
+			],
+			[
+				"fib",
+				"FibArray"
+			],
+			[
+				"ignore",
+				"ignorePath"
+			],
+			[
+				"modue",
+				"moduleName"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"mod",
+				"moduleInstance"
+			],
+			[
+				"Event",
+				"EventEmitter"
+			],
+			[
+				"all",
+				"allLoaded"
+			],
+			[
+				"spira",
+				"spiralTrasnfer"
+			],
+			[
+				"create",
+				"createMatrix"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"w",
+				"welcomeModule"
+			],
+			[
+				"event",
+				"eventName"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"iframe",
+				"iframeWindow"
+			],
+			[
+				"ifr",
+				"iframe"
+			],
+			[
+				"ifra",
+				"iframeWindow"
+			],
+			[
+				"defe",
+				"Deferred"
+			],
+			[
+				"card",
+				"cardValue"
+			],
+			[
+				"Col",
+				"column"
+			],
+			[
+				"cre",
+				"createColumns"
+			],
+			[
+				"cure",
+				"currentWrapper"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"uiC",
+				"uiColumn"
+			],
+			[
+				"num",
+				"columnsNumber"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"init",
+				"initEvents"
+			],
+			[
+				"tabs",
+				"tabsList"
+			],
+			[
+				"tab",
+				"tabWrapper"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/js/index.out.js",
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/js/index.js",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"scope hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scoe",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"set next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"set jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set es7",
+				"Snippet: ThreeJS r67"
+			],
+			[
+				"reque",
+				"Permute Lines: Unique"
+			],
+			[
+				"file delete",
+				"File: Delete"
+			],
+			[
+				"file rename",
+				"File: Rename"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"file: pa",
+				"File: Copy Path"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ym",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"set y",
+				"Set Syntax: YAML"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"trans",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"set shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"filedif",
+				"FileDiffs: Menu"
+			],
+			[
+				"file mo",
+				"File: Move"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"traiil",
+				"Trailing Spaces: Delete Trailing Spaces"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/felquis/Documents/horizon/ionicframework",
+		"/Users/felquis/Documents/horizon/ionicframework/src/assets",
+		"/Users/felquis/Documents/horizon/ionicframework/src/assets/js"
+	],
+	"file_history":
+	[
+		"/Users/felquis/Documents/horizon/inout/transform/say.js",
+		"/Users/felquis/Documents/horizon/inout/inin.js",
+		"/Users/felquis/Documents/horizon/inout/sum.js",
+		"/Users/felquis/Documents/horizon/inout/transform/add.js",
+		"/Users/felquis/Documents/horizon/inout/transform/log.js",
+		"/Users/felquis/Documents/horizon/inout/find.js",
+		"/Users/felquis/Documents/horizon/inout/.editorconfig",
+		"/Users/felquis/Documents/horizon/inout/index.js",
+		"/Users/felquis/Documents/horizon/inout/README.md",
+		"/Users/felquis/Documents/horizon/reactive-programming/js/main.js",
+		"/Users/felquis/Documents/horizon/reactive-programming/package.json",
+		"/Users/felquis/Documents/horizon/reactive-programming/index.html",
+		"/Users/felquis/Documents/horizon/reactive-programming/.gitignore",
+		"/Users/felquis/Documents/horizon/reactive-programming/README.md",
+		"/Users/felquis/Documents/horizon/reactive-programming/css/main.css",
+		"/Users/felquis/Documents/horizon/reactive-programming/.editorconfig",
+		"/Users/felquis/Documents/projects/todomvc-cycle/index.html",
+		"/Users/felquis/Documents/projects/todomvc-cycle/package.json",
+		"/Users/felquis/Documents/projects/todomvc-cycle/npm-debug.log",
+		"/Users/felquis/Documents/projects/todomvc-cycle/src/app.js",
+		"/Users/felquis/Documents/projects/gulp-recipes/browserify-vanilla/src/index.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/variables/variables.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/src/variables/ionic.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/gulpfile.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/states/home/index.js",
+		"/Users/felquis/Documents/projects/spiral/src/scripts/core/core.js",
+		"/Users/felquis/Documents/projects/spiral/src/scripts/modules/start.js",
+		"/Users/felquis/Documents/projects/spiral/src/index.html",
+		"/Users/felquis/Documents/projects/spiral/src/scripts/globals.js",
+		"/Users/felquis/Documents/projects/spiral/README.md",
+		"/Users/felquis/Documents/projects/tick/README.md",
+		"/Users/felquis/Documents/projects/tick/package.json",
+		"/Users/felquis/Documents/projects/truque-carta/.gitignore",
+		"/Users/felquis/Documents/projects/truque-carta/README.md",
+		"/Users/felquis/Documents/projects/truque-carta/package.json",
+		"/Users/felquis/Documents/projects/teste.txt",
+		"/Users/felquis/Documents/projects/webflow-cleanup/package.json",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/publication.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/directives/openIfPossible.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/includes/publication-comments.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/mg-comments.service.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/publication/publication-state.html",
+		"/Users/felquis/Documents/projects/amo/bower.json",
+		"/Users/felquis/Documents/projects/amo/app/scripts/routes.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/edit-profile.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/buscaResultado.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/loves.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/loves.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/profile.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/editarProfile.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/$user.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/serviceProfile.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/post.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/profile-wrapper.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/factoryUserPhotoUpdate.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/factoryLoadImage.js",
+		"/Users/felquis/Documents/projects/amo/app/css/_cards.scss",
+		"/Users/felquis/Documents/projects/amo/app/css/app.scss",
+		"/Users/felquis/Documents/projects/amo/app/css/_vars.scss",
+		"/Users/felquis/Documents/projects/amo/app/templates/buscar/resultado-busca.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/app.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/angular_templates.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/config.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/postar/escrever-post.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/action-item.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/notifications/notifications-love.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/notifications/notifications-comment.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/filters/autolinkFilter.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/serviceFeed.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/timeline.state.controller.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/directives/showUserOptionsButton.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/escreverPost.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/timeline/timeline-state.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/profile.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/followers.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/follows.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/follows.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/followers.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/termos-de-uso.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/politica-de-privacidade.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/checkLogin.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/conta/seja-bem-vinda.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/conta/checklogin.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/conta/choose.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/conta/login.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/chooseLogin.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/factoryAjaxErrors.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/feedback.html",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/feedback.js",
+		"/Users/felquis/Documents/projects/amo/app/templates/tabs.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/notifications/notifications-new-facebook-friend.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/conta/facebook-friends-ahead-using.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/profile/user-list-item.html",
+		"/Users/felquis/Documents/projects/amo/app/templates/notifications/notifications-follow.html",
+		"/Users/felquis/Documents/projects/gulp-learning/bower.json",
+		"/Users/felquis/Documents/projects/gulp-learning/package.json",
+		"/Users/felquis/Documents/projects/gulp-learning/src/scss/variables.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/src/scss/main.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/src/scss/ionic.scss",
+		"/Users/felquis/Documents/projects/amo/.editorconfig",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/facebookFriendsAheadUsingCtrl.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/controllers/facebookLoginHandler.js",
+		"/Users/felquis/Documents/projects/amo/app/scripts/services/serviceFacebook.js",
+		"/Users/felquis/Library/Application Support/Sublime Text 3/Packages/User/maeguru/analytics.sublime-snippet",
+		"/Users/felquis/Library/Application Support/Sublime Text 3/Packages/User/maeguru/untitled",
+		"/Users/felquis/Documents/projects/amo/app/index.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/states/index/index.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/states/index/index.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/states/index/index.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/index.scss",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/index.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/config.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/sidemenu/route.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/run.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/index.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/sidemenu/template.html",
+		"/Users/felquis/Documents/projects/gulp-learning/dist/scripts/app.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/sidemenu-template.html",
+		"/Users/felquis/Documents/projects/gulp-learning/src/index/blank-template.html",
+		"/Users/felquis/Documents/projects/gulp-learning/aoi/css/app.css",
+		"/Users/felquis/Documents/projects/gulp-learning/.editorconfig",
+		"/Users/felquis/Documents/projects/gulp-learning/node_modules/gulp-browserify/node_modules/browserify/node_modules/browser-pack/node_modules/combine-source-map/example/.editorconfig",
+		"/Users/felquis/Documents/projects/gulp-learning/src/login/login.js",
+		"/Users/felquis/Documents/projects/gulp-learning/src/shared/increment/increment.js",
+		"/Users/felquis/Documents/projects/gulp-learning/dist/scripts/app.js.map",
+		"/Users/felquis/Documents/projects/gulp-learning/.gitignore"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/css/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/node_modules",
+			"/Users/felquis/Documents/projects/amo/app/node_modules",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/scripts",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/ionic-garden/gulp/",
+			"/Users/felquis/Documents/projects/ionic-garden/",
+			"/Users/felquis/Documents/projects/amo/templates/",
+			"/Users/felquis/Documents/projects/amo",
+			"/Users/felquis/Documents/projects/",
+			"/Users/felquis/Documents/projects/my-new-project/",
+			"/Users/felquis/Documents/projects/my-new-project/app/",
+			"/Users/felquis/Documents/projects/my-new-projects/app/",
+			"/Users/felquis/Documents/projects/amo/app",
+			"/Users/felquis/Documents/projects/ionic-garden/gulp/",
+			"/Users/felquis/Documents/projects/ionic-garden",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates",
+			"/Users/felquis/Documents/projects/amo/app/css",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/templates/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/,-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/-*_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/ionic-garden/gulp/",
+			"/Users/felquis/Documents/projects/ionic-garden/src/",
+			"/Users/felquis/Documents/projects/amo/app/templates",
+			"/Users/felquis/Documents/projects/amo/templates",
+			"/Users/felquis/Documents/projects/ionic-garden/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/ionic-garden/src/",
+			"/Users/felquis/Documents/projects/amo/app/,-angular_templates.js",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/script/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts",
+			"/Users/felquis/Documents/projects/amo/app",
+			"/Users/felquis/Documents/projects/ionic-garden/www/states/",
+			"/Users/felquis/Documents/projects/ionic-garden/www",
+			"/Users/felquis/Documents/projects/ionic-garden/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/scripts/",
+			"/Users/felquis/Documents/projects/amo/",
+			"/Users/felquis/Documents/projects/amo/templates/",
+			"/Users/felquis/Documents/projects/amo/scripts/",
+			"/Users/felquis/Documents/projects/amo/templates/",
+			"/Users/felquis/Documents/projects/ionic-project/",
+			"/Users/felquis/Documents/projects/ionic-garden/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app",
+			"/Users/felquis/Documents/projects/amo/",
+			"/Users/felquis/Documents/projects/ionic-project/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/bower_components/",
+			"/Users/felquis/Documents/projects/amo/app/bower_componentes/",
+			"/Users/felquis/Documents/projects/amo/app/scripts",
+			"/Users/felquis/Documents/projects/GameOfLife-ES6/src/",
+			"/Users/felquis/Documents/projects/GameOfLife-ES6/",
+			"/Users/felquis/Documents/projects/GameOfLife-ES6/node_modules/",
+			"/Users/felquis/Documents/projects/GameOfLife-ES6/src/",
+			"/Users/felquis/Documents/projects/GameOfLife-ES6/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app/templates/",
+			"/Users/felquis/Documents/projects/amo/app/",
+			"/Users/felquis/Documents/projects/amo/app/scripts/",
+			"/Users/felquis/Documents/projects/amo/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"emmitToDocument",
+			"requestModule",
+			"fireOnThis",
+			"else if(scope.item.type === 'post'",
+			"commentsLoad",
+			"resetModal =",
+			"resetModal",
+			"comments",
+			"usuario",
+			"$scope.me",
+			"$ionicHistory",
+			"is_logged",
+			"loggedSince",
+			"$on('log",
+			"token",
+			"save",
+			"json",
+			"data",
+			"toast",
+			"loadingNewPhoto",
+			"post-item-author-image",
+			".img",
+			"post-item-author-image",
+			"class",
+			"url(",
+			"item-avatar-rounded",
+			"Publicação",
+			"Publicar",
+			"Respostas",
+			"linkProfile",
+			"linkBuscarTag",
+			"rootScope",
+			"$feed.removeOne({ id: scope.item.id });",
+			"$feed.remove",
+			"feedupdate",
+			"ctrlFeed",
+			".notify(",
+			"notify",
+			"data",
+			"backState",
+			"$emmit",
+			"$rootScope",
+			"$broadcast",
+			"broadcast",
+			"timeline",
+			"notify",
+			"$feedUpdated",
+			"loadTimeline",
+			"feedIndex",
+			"$state",
+			"feed",
+			"feedEnd",
+			"getUser",
+			"feedEnd",
+			"ctrlFeed",
+			"isLoadTimeline",
+			"options",
+			"ctrlFeed",
+			"notify",
+			"console.log(data, $ionicHistory);",
+			"notify",
+			"debouce",
+			"notify",
+			"viceMethods.notify =",
+			"route",
+			"feedIndex",
+			"$rootScope",
+			"perguntas",
+			"perguntas/",
+			"Publicação",
+			"publicar",
+			"postar",
+			"Postar",
+			"termosDeUso",
+			"nextView",
+			"nextViewOptions",
+			"nextView",
+			".error",
+			"resetProfileInfo",
+			"$scope.userInfo",
+			"resetProfileInfo",
+			"loadingNewPhoto",
+			"$scope",
+			"currentFeed",
+			"hasMoreToLoad",
+			"currentFeed",
+			"loadingNewPhoto",
+			"userInfo",
+			"resetProfileInfo",
+			"$cordovaToast",
+			"$ionicHistory",
+			"user-list-item",
+			"$scope",
+			"$ionicHistory",
+			"$rootScope",
+			"$state",
+			"$facebook",
+			"$state",
+			"$facebook",
+			"$cordovaToast",
+			"$analytics",
+			"ionicGoBack",
+			"$ionicGoBack",
+			"activate",
+			"activat",
+			"comentarios",
+			"populateCommentsData",
+			"id_usuario",
+			"userName",
+			"profileId",
+			"userName",
+			"id_usuario",
+			"$scope",
+			"$rootScope",
+			"success",
+			"tentativa",
+			"       *",
+			"*",
+			"       *",
+			"checkWrongUserError",
+			"constructor",
+			"facebookObject",
+			"$ionicHistory",
+			"$state",
+			"$user",
+			"$scope",
+			"$rootScope",
+			"todo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"MathExperiments",
+			"tabs.publication",
+			"'tabs.timeline'",
+			"tabs.timeline",
+			"ionicGarden",
+			".commentsCount",
+			"(function () {\n  'use strict'\n",
+			"(function () {\n\n}(window.angular))\nangular.module"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/assets/js/index.out.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/assets/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								46
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "workflow-web.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"paca",
+				"package.json"
+			],
+			[
+				"profile",
+				"app/templates/profile/profile-wrapper.html"
+			],
+			[
+				"timeline.js",
+				"app/scripts/controllers/timeline.state.controller.js"
+			],
+			[
+				"feedbac",
+				"app/scripts/controllers/feedback.js"
+			],
+			[
+				"feed",
+				"app/scripts/controllers/feedback.js"
+			],
+			[
+				"notifications-new-facebook-friend.html",
+				"app/templates/notifications/notifications-new-facebook-friend.html"
+			],
+			[
+				"bemv",
+				"app/scripts/controllers/bemVindaMamae.js"
+			],
+			[
+				"facebook",
+				"app/scripts/controllers/facebookLoginHandler.js"
+			],
+			[
+				"index.html",
+				"src/index.html"
+			],
+			[
+				"config",
+				"src/index/config.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"pakca",
+				"package.json"
+			],
+			[
+				"_varia",
+				"bower_components/ionic/scss/_variables.scss"
+			],
+			[
+				"profile-wra",
+				"app/templates/profile/profile-wrapper.html"
+			],
+			[
+				"app/scripts/serno",
+				"app/scripts/services/factoryNotifications.js"
+			],
+			[
+				"route",
+				"app/scripts/routes.js"
+			],
+			[
+				"showuser",
+				"app/scripts/directives/showUserOptionsButton.js"
+			],
+			[
+				"serv",
+				"app/scripts/services/serviceFeed.js"
+			],
+			[
+				"servi",
+				"app/scripts/services/serviceFeed.js"
+			],
+			[
+				"templates/profile/profile-wrapper.html",
+				"app/templates/profile/profile-wrapper.html"
+			],
+			[
+				"templates/profile/profile.html",
+				"app/templates/profile/profile.html"
+			],
+			[
+				"routere",
+				"app/scripts/services/serviceFeedRouteResolve.js"
+			],
+			[
+				"servicefee",
+				"app/scripts/services/serviceFeed.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"timeline",
+				"app/scripts/controllers/timeline.state.controller.js"
+			],
+			[
+				"pergunt",
+				"app/scripts/controllers/pergunta.js"
+			],
+			[
+				"check",
+				"app/scripts/controllers/checkLogin.js"
+			],
+			[
+				"servicefeed",
+				"app/scripts/services/serviceFeed.js"
+			],
+			[
+				"pergunta.js",
+				"app/scripts/controllers/pergunta.js"
+			],
+			[
+				"sejabemvin",
+				"app/css/states/_seja-bem-vinda.scss"
+			],
+			[
+				"sejabem",
+				"app/templates/conta/seja-bem-vinda.html"
+			],
+			[
+				"escrever",
+				"app/scripts/controllers/escreverPost.js"
+			],
+			[
+				"busca.j",
+				"app/scripts/controllers/busca.js"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pakc",
+				"package.json"
+			],
+			[
+				"spinner/contr",
+				"src/states/spinners/controller.js"
+			],
+			[
+				"spinner/route",
+				"src/states/spinners/route.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"gruntgi",
+				"node_modules/grunt-githooks/lib/githooks.js"
+			],
+			[
+				"gruntfil",
+				"Gruntfile.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"app.js",
+				"www/js/app.js"
+			],
+			[
+				"load",
+				"www/js/load.js"
+			],
+			[
+				"load-",
+				"www/js/load-ionic.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"ted.",
+				"scripts/ted.js"
+			],
+			[
+				"grunti",
+				"Gruntfile.js"
+			],
+			[
+				"checklo",
+				"app/scripts/controllers/checkLogin.js"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"$user",
+				"app/scripts/services/$user.js"
+			],
+			[
+				"index.t",
+				"src/index.html"
+			],
+			[
+				".jscs",
+				".jscsrc"
+			],
+			[
+				"jscs",
+				"gulp/tasks/jscs.js"
+			],
+			[
+				".js",
+				".jscsrc"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"facebooklogin",
+				"app/scripts/controllers/facebookLoginHandler.js"
+			],
+			[
+				"app/css/ap",
+				"app/css/app.scss"
+			],
+			[
+				"app/app.css",
+				"app/bower_components/angular/angular-csp.css"
+			],
+			[
+				"idnex",
+				"app/index.html"
+			],
+			[
+				"choose",
+				"app/templates/conta/choose.html"
+			],
+			[
+				"bem-vind",
+				"app/templates/conta/seja-bem-vinda.html"
+			],
+			[
+				"choo",
+				"app/templates/conta/choose.html"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"index.htm",
+				"app/index.html"
+			],
+			[
+				"index.ht",
+				"app/index.html"
+			],
+			[
+				"loginhandle",
+				"app/scripts/controllers/facebookLoginHandler.js"
+			],
+			[
+				"loca",
+				"src/partials/section/location.html.eco"
+			],
+			[
+				"spon",
+				"src/partials/section/sponsors.html.eco"
+			],
+			[
+				"main.",
+				"src/documents/themes/yellow-swan/js/main.js"
+			],
+			[
+				"mixin",
+				"src/documents/themes/yellow-swan/css/_mixins.less"
+			],
+			[
+				"bower.js",
+				"bower.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

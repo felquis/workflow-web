@@ -1,17 +1,32 @@
 {
   "name": "workflow-web",
   "version": "1.0.0",
-  "description": "A simple development workflow to easily start writing HTML, CSS and JavaScript",
+  "description": "Home Sweet Home Page",
   "author": "Felquis Gimenes <oi@felquis.com>",
   "license": "MIT",
   "dependencies": {
     "http-server": "^0.8.0",
-    "browserify": "^11.0.1",
-    "babelify": "^6.1.3"
+    "jspm": "^0.16.12",
+    "uglify-js": "^2.4.24"
   },
   "scripts": {
-    "start": "http-server ./src -o",
-    "build": "browserify src/assets/js/index.js -t babelify -o src/assets/js/index.out.js",
+    "start": "http-server ./ -o",
+    "build": "jspm bundle-sfx app/index.js --inject && npm run minify",
+    "minify": "uglifyjs build.js --in-source-map build.js.map -o build.js",
     "gh-pages": "git subtree push --prefix src/ origin gh-pages"
+  },
+  "jspm": {
+    "dependencies": {
+      "history": "npm:history@^1.12.4",
+      "react": "npm:react@^0.14.0",
+      "react-dom": "npm:react-dom@^0.14.0",
+      "react-router": "npm:react-router@^1.0.0-rc3",
+      "rgx": "npm:rgx@^0.2.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
   }
 }

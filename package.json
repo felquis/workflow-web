@@ -11,9 +11,9 @@
   },
   "scripts": {
     "start": "http-server ./ -o",
-    "build": "jspm bundle-sfx app/index.js --inject && npm run minify",
+    "build": "jspm bundle-sfx app/index.js build.js && npm run minify",
     "minify": "uglifyjs build.js --in-source-map build.js.map -o build.js",
-    "gh-pages": "git subtree push --prefix src/ origin gh-pages"
+    "deploy": "git push -f origin master:gh-pages"
   },
   "jspm": {
     "dependencies": {

@@ -1,4 +1,4 @@
-## Workflow Web
+## :tulip: Workflow Web
 > Home Sweet Home Page
 
 First you need to install [NodeJS](http://nodejs.org) and [GIT](https://git-scm.com/)

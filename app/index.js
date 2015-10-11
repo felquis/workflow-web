@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from 'react-dom'
 import { Router, Route, Link } from 'react-router'
 
 const App = React.createClass({
@@ -39,7 +40,7 @@ const Message = React.createClass({
   }
 })
 
-React.render((
+ReactDOM.render((
   <Router>
     <Route path="/" component={App}>
       <Route path="about" component={About} />

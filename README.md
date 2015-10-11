@@ -1,16 +1,22 @@
 ## Workflow Web
-
-Hello there.
+> Home Sweet Home Page
 
 First you need to install [NodeJS](http://nodejs.org) and [GIT](https://git-scm.com/)
 
-Install NodeJS dependencies
+## NodeJS dependencies
 > npm install -d
 
-Install Bower dependencies
-> bower install
+## JSPM dependencies
+> jspm install
 
-Start your NodeJS application
+## Building
+> npm run build
+
+## Serve
 > npm start
 
-Read the commit history and have fun!
+## Deploy to gh-pages
+> npm run deploy
+
+TODO:
+* watch task with npm scripts
